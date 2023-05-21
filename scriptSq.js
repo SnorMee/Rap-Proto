@@ -135,7 +135,7 @@ for (let i = 0; i < Object.keys(data.children).length - 1; i++) {
 
 // Sizing - independent
 let tw = 1000
-let th = 1000
+let th = 750
 let numX = 1
 // Sizing - DEPENDENT
 let numY = 12/numX
